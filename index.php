@@ -7,7 +7,7 @@
 ?>
 <html>
 	<head>
-		<title>Week 9 Assignmnet</title>
+		<title>Week 9 Assignment</title>
 		<link rel="stylesheet" href="main.css">
 	</head>
 	<body>
