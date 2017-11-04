@@ -18,7 +18,6 @@ class UsersDB {
 
 		}
 
-
 		return $usersArray;
 	
 	}
